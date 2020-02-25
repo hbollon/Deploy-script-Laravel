@@ -9,4 +9,5 @@ Home made script for deploy Laravel project on local or remote server in produti
 ## Usage
 * Download this script and put it at the root of your project 
 * Open command prompt in this directory and run the script 
+
 You can do it through ssh
