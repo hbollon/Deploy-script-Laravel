@@ -8,7 +8,7 @@ git reset --hard
 git pull origin master 
 
 # Update PHP dependencies
-composer install --no-interaction --optimize-autoload --no-dev --prefer-dist
+composer install --no-interaction --optimize-autoloader --no-dev --prefer-dist
 
 # Update database
 php artisan migrate --force
